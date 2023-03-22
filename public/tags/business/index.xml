@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on My New Hugo Site</title>
+    <link>http://example.org/tags/business/</link>
+    <description>Recent content in Business on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2023 11:17:43 +0300</lastBuildDate><atom:link href="http://example.org/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investors by the numbers</title>
+      <link>http://example.org/posts/post3/</link>
+      <pubDate>Sun, 19 Mar 2023 11:17:43 +0300</pubDate>
+      
+      <guid>http://example.org/posts/post3/</guid>
+      <description>There are nearly 80,000 mutual funds worldwide. Investors need a way to decide what investment is right for them. However, with so many metrics how do you decipher value? The answer isn’t buried in exhaustive investment guides. Instead, the winning strategy comes from a game show contestant in the 1980s.
+In 1983 Michael Larson started recording episodes of a new game show called ‘Press Your Luck.’ Contestants hit their buzzer when they wanted to stop a chasing light circling a board.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>House on My New Hugo Site</title>
+    <link>http://example.org/tags/house/</link>
+    <description>Recent content in House on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2023 11:11:50 +0300</lastBuildDate><atom:link href="http://example.org/tags/house/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How architectural designs can make you sick</title>
+      <link>http://example.org/posts/post2/</link>
+      <pubDate>Sun, 19 Mar 2023 11:11:50 +0300</pubDate>
+      
+      <guid>http://example.org/posts/post2/</guid>
+      <description>14 ways apartment guides could leave you needing a lawyer. 12 movies with unbelievable scenes about architectural designs. The unconventional guide to modular homes. Why mom was right about apartments. How modular homes made me a better person. Unbelievable home decor success stories. 20 movies with unbelievable scenes about interior design ideas. Unbelievable bathroom design success stories. Why bathroom designs will change your life. 9 problems with small house plans.</description>
+    </item>
+    
+  </channel>
+</rss>
