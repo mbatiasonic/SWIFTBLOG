@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://greeninsightz.netlify.app/'
 languageCode = 'en-us'
 title = 'GREEN INSIGHTZ'
 paginate = 3
