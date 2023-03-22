@@ -16,4 +16,4 @@ Renewable energy sources – which are available in abundance all around us, pro
 
 [BUY ME A COFFEE](https://www.buymeacoffee.com/gachanasamg)
 
-![buy me a coffee](QR.png)
+![buy me a coffee](/images/QR.png)
