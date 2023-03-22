@@ -14,4 +14,6 @@ Energy is at the heart of the climate challenge – and key to the solution.To a
 
 Renewable energy sources – which are available in abundance all around us, provided by the sun, wind, water, waste, and heat from the Earth – are replenished by nature and emit little to no greenhouse gases or pollutants into the air.(UN,Climate Action)
 
-[Button Example]: https://www.buymeacoffee.com/gachanasamg
+[BUY ME A COFFEE](https://www.buymeacoffee.com/gachanasamg)
+
+![buy me a coffee](QR.png)
