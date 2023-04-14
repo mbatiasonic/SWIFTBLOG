@@ -25,5 +25,4 @@ As the world continues to face the challenges of climate change and energy secur
 
 In conclusion, renewable energy is the future of energy, and it's here now. The transition to renewable energy is happening at an unprecedented rate, and it's essential for the sustainable development of the world. The adoption of renewable energy will not only help to mitigate the impacts of climate change but also create jobs and stimulate economic growth. We must all work together to support the transition to renewable energy and shape a cleaner, greener future.
 
-![Renewable Energy Image](https://unsplash.com/photos/vouoK_daWL8)
 
