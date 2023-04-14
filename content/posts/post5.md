@@ -18,5 +18,3 @@ EVs are also becoming more convenient to own and operate. With the development o
 Lastly, EVs are also providing economic benefits. The production of EVs is creating jobs and stimulating economic growth. In addition, the widespread adoption of EVs is reducing the dependence on foreign oil and improving energy security.
 
 Overall, the benefits of EVs are numerous and significant. They are eco-friendly, energy-efficient, affordable, convenient, and economically beneficial. As technology continues to improve and the demand for EVs grows, the benefits will only continue to increase.
-
-![Electric car Charging Image](https://unsplash.com/photos/uBKg9f0aUrY)
