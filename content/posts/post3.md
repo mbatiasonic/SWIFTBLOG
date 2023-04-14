@@ -23,4 +23,4 @@ In addition to making a positive impact on the environment, using green products
 
 Overall, making sustainable choices is essential for protecting our planet and ensuring a healthy future for generations to come. By choosing green products, we can all do our part to reduce our impact on the environment and make a positive difference in the world.
 
-![Sustainable choices](https://www.shutterstock.com/image-vector/father-walking-kids-holding-baby-boy-1092927908)
+
