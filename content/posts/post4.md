@@ -17,4 +17,3 @@ While these steps are certainly important, many people remain skeptical of corpo
 
 In conclusion, the role of corporations in climate action is significant, and there is much they can do to help mitigate the effects of climate change. By reducing their own carbon footprint, driving systemic change, investing in innovation, and being transparent and accountable, corporations can make a real difference in the fight against climate change. However, they must also be held accountable for their actions, and the public must demand transparency and sustainability from these powerful entities.
 
-![Renewable Energy Image](https://unsplash.com/photos/vouoK_daWL8)
