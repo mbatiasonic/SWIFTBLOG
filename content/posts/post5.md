@@ -3,7 +3,7 @@ title = "The Benefits of Electric Vehicles"
 date = 2023-03-20T18:34:19+03:00
 draft = false
 author ="Mbatia"
-tags = ["electric vehicles", "EVs", "eco-friendly", "energy efficiency", economic benefits]
+tags = ["electric vehicles", "EVs", "eco-friendly", "energy efficiency", "economic benefits"]
 +++
 Electric vehicles (EVs) are becoming increasingly popular around the world due to their numerous benefits. From reducing pollution to improving energy efficiency, EVs have a lot to offer.
 
